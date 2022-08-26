@@ -5,5 +5,5 @@ As you may have already guessed, I enjoy creating pieces of art through code.
 I also  like literature, videogames and learning about crypto-technology.
 
 
-:mortar_board: Information Systems
+:mortar_board: Information Systems <br>
 :round_pushpin: Lima, Peru.
